@@ -4,7 +4,8 @@
  * https://solidity.readthedocs.io/en/latest/080-breaking-changes.html
  */
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.6.0 <0.9.0;
+//pragma solidity >=0.6.0 <0.9.0;
+pragma solidity >=0.5.16 <0.9.0;
 
 contract SimpleBank {
 
